@@ -2,3 +2,5 @@
 this is a new line
 
 this commit is fine
+
+this commit is not fine (wrong, bug, issue)
